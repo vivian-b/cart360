@@ -85,14 +85,6 @@ a:link {
   text-decoration: none;
 }
 
-a:visited {
-  color: #40d49e;
-}
-
-a.active {
-  background-color: #3a424a;
-}
-
 nav a:hover {
 color: white;
 background-color: #17233b;
