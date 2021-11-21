@@ -12,6 +12,7 @@ body {
   font-size: 20px;
   line-height: 1.5;
   color: #335eb5;
+
 }
 
 #page-container {
@@ -41,7 +42,10 @@ header {
   text-transform:none;
   color: #c6cdf7;
 }
-
+article{
+  padding-left: 5%;
+  
+}
 h2 {
   font-family:  'Lato' , verdana, sans-serif;
   font-size: 400%;
@@ -77,13 +81,6 @@ nav a:link {
   border-right: solid 2px #445b73;
 }
 
-a:link {
-  color:#aba9d1;
-  font-family: courier ,monospace;
-  text-transform: uppercase;
-  font-size: 18px;
-  text-decoration: none;
-}
 
 nav a:hover {
 color: white;
